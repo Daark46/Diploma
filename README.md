@@ -1,3 +1,3 @@
 # Diploma
 
-![Zabbix](https://github.com/bulrza/fin/blob/main/README.md)
+[Zabbix](https://github.com/bulrza/fin/blob/main/README.md)
