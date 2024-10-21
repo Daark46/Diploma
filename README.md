@@ -1,3 +1,3 @@
 # Diploma
 
-![alt text](https://www.google.ru/intx/ru/drive/)
+![alt text](https://github.com/bulrza/fin/blob/main/README.md)
